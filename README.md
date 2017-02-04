@@ -53,7 +53,7 @@ Traveling, Cultures &amp; Landmarks
 				<th style="background-color:white">City</th>
 				<td style="background-color:white">Agra</td>
 				<td style="background-color:white">Rome</td>
-				<td style="background-color:white">Cairo</td>
+				<td style="background-color:white">Giza</td>
 				<td style="background-color:white">Greek City</td>
 			</tr>
 			<tr>
